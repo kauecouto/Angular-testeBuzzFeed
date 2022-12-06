@@ -1,0 +1,25 @@
+@media (max-width:768px){
+    .img-logo{
+        width: 200px;
+    }
+
+    .quiz-questions > h3{
+        font-size: 1.5rem;
+    }
+    
+    
+    .container-results-img{
+        height: 60%;
+        align-self: flex-end;
+    }
+    
+    .results{
+        text-align: center;
+    }
+    
+    .img-result{
+        width: 100%;
+        height: 100%;
+        border-radius: 0.5rem ;
+    }
+}
